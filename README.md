@@ -182,9 +182,11 @@ c. Give all users the default tablespace USERS.
 
 [![Calculations](https://i.imgur.com/MPPjWGc.png)](http://i.imgur.com/MPPjWGc)
 
+This image refers to the process in done in assignment 6a, where we set the default tablespace to USERS.
+
 ---
 
-This image refers to the process in done in assignment 6a, where we set the default tablespace to USERS.
+
 
 
 d. Give user #1 a quota of 0 MB on USERS (this prevents any table creation); give user #2 a quota of 50M on USERS. 
