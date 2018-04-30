@@ -92,7 +92,7 @@ As far as we gathered, we do not own any of the LOB indexes with the sys_ prefix
 [![FVCproductions](https://i.imgur.com/nZSJDin.png)](http://fvcproductions.com)
 [![FVCproductions](https://i.imgur.com/vrUW22k.pngg)](http://fvcproductions.com)
 
-
+---
 
 5. 5.  (Try) to create four roles such that 
 a.  The first has the least possible privileges, to only read your tables.  It should not have the privileges to create anything in the database.
