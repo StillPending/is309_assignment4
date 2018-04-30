@@ -164,23 +164,24 @@ Theoretically, we could have created a list of tables that a function could loop
 6. Create two users. 
 a. Give the users name that start with XX_1, XX_2, where XX is the (possibly abbreviated) group name. 
 
-[![Creating users](https://i.imgur.com/LWVgszF.png)](https://i.imgur.com/LWVgszF.png)    
+[![Calculations](https://i.imgur.com/LWVgszF.png)](http://i.imgur.com/LWVgszF)
 
-[![Creating a profile](https://i.imgur.com/UpYcvY8.png)](https://i.imgur.com/UpYcvY8.png)
+[![Calculations](https://i.imgur.com/UpYcvY8.png)](http://i.imgur.com/UpYcvY8)
+
 ---
 
 
 b. Create a PROFILE with reasonable characteristics and use it when creating users. 
 
-[![Setting default tablespace](https://i.imgur.com/Oqo9r3e.png)
+[![Setting default tablespace](https://i.imgur.com/Oqo9r3e.png)]
 
 ---
 
 
 c. Give all users the default tablespace USERS. 
 
-[![DEFAULT USERS](https://i.imgur.com/MPPjWGc.png)
- 
+[![DEFAULT USERS](https://i.imgur.com/MPPjWGc.png)]
+
 ---
 
 This image refers to the process in done in assignment 6a, where we set the default tablespace to USERS.
@@ -188,9 +189,9 @@ This image refers to the process in done in assignment 6a, where we set the defa
 
 d. Give user #1 a quota of 0 MB on USERS (this prevents any table creation); give user #2 a quota of 50M on USERS. 
 
-[![Granting roles](https://i.imgur.com/Gegy64J.png)
+[![Granting roles](https://i.imgur.com/Gegy64J.png)]
 
-[![Granting roles](https://i.imgur.com/v3iBrOm.png)
+[![Granting roles](https://i.imgur.com/v3iBrOm.png)]
 
 
 
@@ -202,7 +203,7 @@ d. Give user #1 a quota of 0 MB on USERS (this prevents any table creation); giv
 
 e. Grant the first user role (4.a); the second user, role (4.b) 
 
-[![Granting roles](https://i.imgur.com/vm41yOn.png)
+[![Granting roles](https://i.imgur.com/vm41yOn.png)]
 
 
 ---
