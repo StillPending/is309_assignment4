@@ -97,14 +97,19 @@ As far as we gathered, we do not own any of the LOB indexes with the sys_ prefix
 
 ---
 
-5. 5.  (Try) to create four roles such that 
+5. (Try) to create four roles such that 
 a.  The first has the least possible privileges, to only read your tables.  It should not have the privileges to create anything in the database.
-[![FVCproductions](https://i.imgur.com/ywKOD86.png)](http://fvcproductions.com)
+
+
+[![Calculations](https://i.imgur.com/smpkEaA.png)](https://i.imgur.com/smpkEaA)
 
 
 We can also use a LOOP if the role should have the same privilege for all tables
 
+[![Calculations](https://i.imgur.com/qfEtq3h.png)](http://i.imgur.com/qfEtq3h)
 
+
+---
 
 b.  The second shall have the privilege to execute all of the procedures and functions in the Ioby.org3b_pkg package. 
 [![FVCproductions](https://i.imgur.com/ywKOD86.png)](http://fvcproductions.com)
