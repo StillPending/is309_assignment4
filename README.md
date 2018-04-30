@@ -41,7 +41,7 @@ Calculation for table growth, x being the specified base amount of items = ((x* 
 
 ---
 
-## Assignment #2-6
+## Assignment
 
 ---
 
