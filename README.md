@@ -37,13 +37,13 @@ We assume that the tables with an unknown expansion will stay as 0 expansion in 
 ## Calculations
 Calculation for table growth, x being the specified base amount of items = ((x* 2) * 1.5) / 2 We round up or down when the calculations provide decimals.
 
-[![FVCproductions](https://i.imgur.com/ywKOD86.png)](http://fvcproductions.com)
+[![Calculations](https://i.imgur.com/ywKOD86.png)]
 
 ---
 
 2. Create the necessary tablespaces. a. Write and execute the CREATE TABLESPACE command that you would use to create each of the tablespaces. NOTE!!! In your command to create a tablespace, do NOT use an extent UNIFORM SIZE larger than 4M, in spite of what you determined above. The reason is ONLY that there is limited space on the Oracle server we are using. In real life you could specify larger extent sizes. 
 
-[![FVCproductions](https://i.imgur.com/EnnWmhw.png)](http://fvcproductions.com)
+[![Calculationss](https://i.imgur.com/EnnWmhw.png)])
 
 ---
 
@@ -55,7 +55,7 @@ Calculation for table growth, x being the specified base amount of items = ((x* 
 
 3. Move your i_ ioby tables into the appropriate tablespaces, with the appropriate PCTFREE, INITIAL, and NEXT extent values, as calculated above. 
 
-[![FVCproductions](https://i.imgur.com/XwNegFP.png)](http://fvcproductions.com)
+[![Calculations](https://i.imgur.com/XwNegFP.png)])
 
 ---
 
@@ -89,8 +89,8 @@ RELATION_3_PK
 As far as we gathered, we do not own any of the LOB indexes with the sys_ prefix.
 
 
-[![FVCproductions](https://i.imgur.com/nZSJDin.png)](http://fvcproductions.com)
-[![FVCproductions](https://i.imgur.com/vrUW22k.pngg)](http://fvcproductions.com)
+[![Calculations](https://i.imgur.com/nZSJDin.png)])
+[![Calculations](https://i.imgur.com/vrUW22k.pngg)])
 
 ---
 
