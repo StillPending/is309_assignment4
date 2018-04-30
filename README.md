@@ -43,9 +43,9 @@ Calculation for table growth, x being the specified base amount of items = ((x* 
 
 2. Create the necessary tablespaces. a. Write and execute the CREATE TABLESPACE command that you would use to create each of the tablespaces. NOTE!!! In your command to create a tablespace, do NOT use an extent UNIFORM SIZE larger than 4M, in spite of what you determined above. The reason is ONLY that there is limited space on the Oracle server we are using. In real life you could specify larger extent sizes. 
 
-
 [![FVCproductions](https://i.imgur.com/EnnWmhw.png)](http://fvcproductions.com)
 
+---
 
 
 
