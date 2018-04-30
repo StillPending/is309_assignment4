@@ -112,20 +112,27 @@ We can also use a LOOP if the role should have the same privilege for all tables
 ---
 
 b.  The second shall have the privilege to execute all of the procedures and functions in the Ioby.org3b_pkg package. 
-[![FVCproductions](https://i.imgur.com/ywKOD86.png)](http://fvcproductions.com)
 
 
+[![Calculations](https://i.imgur.com/DXlEBOQ.png)](http://i.imgur.com/DXlEBOQ)
 
 
+---
 
 
 
 
 
 c.  The third should have the privilege to execute the procedures to create a new account, create a new project, create a new giving level, add a budget item to a project, and add a focus area to a project. This would be an administrative, data entry role. 
-[![FVCproductions](https://i.imgur.com/ywKOD86.png)](http://fvcproductions.com)
 
 
+[![Calculations](https://i.imgur.com/DGQMtJR.png)](http://i.imgur.com/DGQMtJR)
+
+[![Calculations](https://i.imgur.com/5VyqEmi.png)](http://i.imgur.com/5VyqEmi)
+
+[![Calculations](https://i.imgur.com/IhUCTVa.png)](http://i.imgur.com/IhUCTVa)
+
+---
 
 
 
