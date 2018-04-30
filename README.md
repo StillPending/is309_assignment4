@@ -193,7 +193,7 @@ d. Give user #1 a quota of 0 MB on USERS (this prevents any table creation); giv
 
 [![Calculations](https://i.imgur.com/Gegy64J.png)](http://i.imgur.com/Gegy64J)
 
-[![Calculations](https://i.imgur.com/v3iBrOm.png)](http://i.imgur.com/v3iBrOm)
+[![Calculations](https://i.imgur.com/wT36SQ1.png)](http://i.imgur.com/wT36SQ1)
 
 
 ---
