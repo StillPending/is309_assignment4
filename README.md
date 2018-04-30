@@ -85,9 +85,9 @@ RELATION_3_PK
 
 As far as we gathered, we do not own any of the LOB indexes with the sys_ prefix.
 
-(https://i.imgur.com/nZSJDin.png)
-(https://i.imgur.com/vrUW22k.png)
 
+[![FVCproductions](https://i.imgur.com/nZSJDin.png)](http://fvcproductions.com)
+[![FVCproductions](https://i.imgur.com/vrUW22k.pngg)](http://fvcproductions.com)
 
 
 
