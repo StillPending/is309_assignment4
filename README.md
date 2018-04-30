@@ -92,7 +92,7 @@ As far as we gathered, we do not own any of the LOB indexes with the sys_ prefix
 
 [![Calculations](https://i.imgur.com/nZSJDin.png)](http://i.imgur.com/nZSJDin)
 
-[![Calculations](https://i.imgur.com/vrUW22k.png)](http://i.imgur.com/vrUW22k)
+[![Calculations](https://i.imgur.com/ARCBQjr.png)](http://i.imgur.com/ARCBQjr)
 
 
 ---
@@ -141,17 +141,23 @@ c.  The third should have the privilege to execute the procedures to create a ne
 
 
 d.  The fourth shall have the privilege to create a new account and add a donation.  This would be a donor role. 
-[![FVCproductions](https://i.imgur.com/ywKOD86.png)](http://fvcproductions.com)
 
+[![Calculations](https://i.imgur.com/vm41yOn.png)](http://i.imgur.com/vm41yOn)
+
+---
 
 e.  What difficulties did you encounter in (c) and (d) in comparison to (a) and (b)?
+
 C and D provided difficulties in comparison to A and B, mostly due to the fact that Oracle does not allow a user to grant privileges to more than one object at a time.
 
+---
+
 f.  Thought question: how can this problem be solved?  
+
 Unfortunately, we did not find a way to solve this problem, as the documentation shows.
 Theoretically, we could have created a list of tables that a function could loop through whenever we needed to work with more than one object at a time.
 
-
+---
 
 
 
